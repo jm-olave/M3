@@ -1,4 +1,4 @@
-hola = "Hola Mundo manzana"
+hola = "Hola Mundo "
 a = 1.5
 b = 1.5
 # valor = int(input("valor:"))
